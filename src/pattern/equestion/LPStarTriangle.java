@@ -1,4 +1,4 @@
-package pattern;
+package pattern.equestion;
 
 import java.util.Scanner;
 

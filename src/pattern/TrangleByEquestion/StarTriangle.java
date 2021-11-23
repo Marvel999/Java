@@ -1,4 +1,4 @@
-package pattern;
+package pattern.TrangleByEquestion;
 
 import java.util.Scanner;
 
