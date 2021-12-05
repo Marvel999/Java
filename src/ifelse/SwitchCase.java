@@ -12,7 +12,6 @@ public class SwitchCase {
                 break;
             default:
                 System.out.println("num is not 30 & 20");
-
         }
     }
 }
